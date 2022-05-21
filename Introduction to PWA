@@ -1,0 +1,29 @@
+Progressive Web Application is not a new technology or framework rather it is best practices which have been adopted by the web to give a native app like feeling to the user.
+Components such as Service worker, App Shell, Web App Manifest and Push Notification, which are discussed in the following section, work together to give native like feeling
+to PWA. It can be installed on the user’s home screen with one tap. A user can enjoy full-screen experience without going through the hassle of the downloading process. It
+loads faster even on a flaky network and works offline. It gradually develops with interaction and sends relevant push notification thus increasing user engagement.
+
+The popularity of PWA is growing at a very fast pace in the field of e-commerce, business, online news portal and other fields because of its peculiar characteristics listed
+below as follows:
+1:Progressive
+PWA works for all user on all browser and builds up continuously; taking the benefits of
+features found in user’s device and browser.
+
+2:Responsive
+PWA‘s UI fit on all devices forms, factor and size: mobile, desktop and tablet. Responsive
+feature is achieved using the material design, fluid grid concepts, CSS3 media queries
+and flexible images. 
+
+3:Home screen Shortcut
+Due to W3C web app manifest and service worker registration scope, search engines
+identify PWA as an application. It also increases the probability to be found easily on
+search engines compared to the native app. 
+
+4:Fresh
+New content published gets an update once the user is connected to the Internet due to
+the service worker update process. Application shell and content, after it is cached always load from the local storage.
+
+5:Safe
+Implementation of HTTPS connection and SSL certificate to serve the page is a must to
+prevent man-in-the-middle attacks, password intruding and making sure content is not
+manipulated.

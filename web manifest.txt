@@ -1,3 +1,0 @@
-Web App Manifest is a simple JSON file containing information: name, short_name, description, icons for different device resolution, start_url, display mode, theme color of the
-application. The use of Web App Manifest installs the web app in the user home screen between the native apps. As a result, the user can get quick access and enjoy full-screen
-display like with the native app

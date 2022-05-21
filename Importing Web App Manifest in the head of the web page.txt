@@ -1,0 +1,6 @@
+For the web app to be able to appear as install banner on sites and provide an app-like
+experience, the web app must fulfill the following criteria:
+1. The site needs to be served over HTTPS.
+2. The site needs to have a service worker registered.
+3. The web app manifest file of the site should have at least the four mandatory
+fields name or short_name (preferably both, start_url, icons and display)

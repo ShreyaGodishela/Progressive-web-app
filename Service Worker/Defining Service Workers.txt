@@ -1,0 +1,9 @@
+An offline state of web app could not provide any useful informationto users. But the introduction of a service worker has turned this error as something thatcan be handled with grace.
+A Service Worker is an event-driven script that runs in the background separately from the webpage, reacts to events and intercept network requests of application or website
+with server and resources. It works as proxy between the network and the browser. It can run even when the application is closed, thus it serves to trigger events even whenthe site is closed. 
+Features like push notifications and background sync are possible in web today because of Service Workers. In the future, the service worker shall back other cool features like periodic sync. 
+ Since the service worker can intercept the request,modify content or even completely replace with new responses, only pages served oversecure connections (HTTPS) can register a service worker. 
+This is to protect users andprevent man-in-the-middle attacks.
+
+Service Worker is taken as progressive enhancement of the application or webpage.Progressive enhancement improves the content and capabilities of an application. 
+Thus,an application should be fully functional on any platform before adding service workers.A better experience can be gained by the user with compatible browsers with the application. 

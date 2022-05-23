@@ -1,6 +1,0 @@
-As service worker is an event-driven script, it has a short life span. It wakes up with events and runs only if it needs to process the event. 
-Through Service Worker the developer can treat the network as enhancement, control caching of resources on a proper way. 
-Control over the cached resources plays an important role in developing offline application, which is one of the key features of PWA. 
-Via service worker the webpage is available even offline and with cached data loads faster even on a flaky network.
-
-https://user-images.githubusercontent.com/72434899/169649319-cdf80176-9832-4055-9a13-39ef33da3ef4.png
